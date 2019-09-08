@@ -1,0 +1,9 @@
+Package: com.mrjeff.bhimbreak
+Name: BHIMBreak
+Author: MrJeff
+Description: Bypass BHIM Jailbreak Detection.
+Depends: mobilesubstrate
+Maintainer: MrJeff <mrjeff420@yahoo.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0

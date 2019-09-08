@@ -1,0 +1,9 @@
+/.theos
+obj
+.DS_Store
+/*.xcodeproj
+Makefile
+Tweak.xm
+#control
+*.plist
+packages_debug/
